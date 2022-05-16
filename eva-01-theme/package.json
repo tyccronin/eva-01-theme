@@ -1,8 +1,23 @@
 {
     "name": "eva-01-theme",
-    "displayName": "Eva 01 Theme",
-    "description": "A color theme based on Eva 01",
-    "version": "0.0.1",
+	"displayName": "Eva 01 Theme",
+	"description": "Eva 01 Theme For VSCode",
+	"version": "0.0.1",
+	"publisher": "TyCronin",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tyccronin/eva-01-theme"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"neon genesis evangelion",
+		"evangelion",
+		"anime",
+		"eva",
+		"eva 01",
+		"purple"
+	],
     "engines": {
         "vscode": "^1.67.0"
     },
