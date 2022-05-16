@@ -4,6 +4,7 @@
 	"description": "Eva 01 Theme For VSCode",
 	"version": "0.0.1",
 	"publisher": "TyCronin",
+	"icon": "img/screenshot.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/tyccronin/eva-01-theme"
