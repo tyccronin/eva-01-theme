@@ -1,0 +1,21 @@
+{
+    "name": "eva-01-theme",
+    "displayName": "Eva 01 Theme",
+    "description": "A color theme based on Eva 01",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Eva 01 Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Eva 01 Theme-color-theme.json"
+            }
+        ]
+    }
+}
